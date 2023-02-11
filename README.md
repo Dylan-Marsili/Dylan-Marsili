@@ -1,15 +1,53 @@
-<h3 align="center">A passionate frontend developer from India</h3>
+# Hi there! 👋🏻 I am Ezequiel Sandes!
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dyla-marsili" alt="dyla-marsili" /></a> </p>
+![](https://komarev.com/ghpvc/?username=EzeSandes)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://instagram.com/marsilidylan_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="marsilidylan_" height="30" width="40" /></a>
-<a href="https://discord.gg/https://discord.gg/paeChjxV" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/paeChjxV" height="30" width="40" /></a>
-</p>
+```
+"Do it with passion, or don't do it."
+```
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> </p>
+Hi, I'm Dylan! Self-taught web development and python student, based in Argentina. I am currently studying high school. I am in the third year of high school with 100% of the subjects approved.
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dyla-marsili&show_icons=true&locale=en" alt="dyla-marsili" /></p>
+I started learning web development on my own in 2022 and I love it! I consider myself a very responsible person with my work, I constantly study and improve my skills to complement all my projects and I enjoy doing it!
 
+The feeling of knowing that it can be done better, of other people's incredible projects that they create, is what constantly motivates me to keep improving to reach and exceed them.
+
+Check out my portfolio 👉  <pre>Web: https://dylan-marsili.github.io/portafolio-es/ <br>Repo: https://github.com/Dylan-Marsili/portafolio-es </pre>
+
+---
+
+## 🧰 Languages and tools that interested me throughout my learning.
+* HTML
+* CSS
+* JavaScript / React
+* NodeJS / Express
+* SQL / MongoDB
+* C / C++
+* Java
+
+---
+## 👉🏻 Get in touch
+
+* Portfolio: https://dylan-marsili.github.io/portafolio-es/
+* LinkedIn: https://www.linkedin.com/in/dylan-marsili-94a693265/
+
+<!--
+🧰  Toolbox
+
+<img src="https://github.com/devicons/devicon/blob/master/icons/c/c-plain.svg" alt="C logo" width="50px" height="50px" />   <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-plain.svg" alt="Cplusplus logo" width="50px" height="50px" />   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain.svg" alt="HTML5 logo" width="50px" height="50px" />   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain.svg" alt="CSS3 logo" width="50px" height="50px" />   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="Javascript logo" width="50px" height="50px" /><img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-plain-wordmark.svg" alt="NodeJS logo" width="50px" height="50px" />   <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original-wordmark.svg" alt="Express logo" width="50px" height="50px" />   <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-plain.svg" alt="Express logo" width="50px" height="50px" />   <img src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" alt="SQL Server logo" width="50px" height="50px" />  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" alt="Git logo" width="50px" height="50px" />
+-->
+
+<!--
+**EzeSandes/EzeSandes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
