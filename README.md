@@ -1,6 +1,4 @@
-# Hi there! 👋🏻 I am Ezequiel Sandes!
-
-![](https://komarev.com/ghpvc/?username=EzeSandes)
+# Hi there! 👋🏻 I am Dylan Marsili !
 
 ```
 "Do it with passion, or don't do it."
