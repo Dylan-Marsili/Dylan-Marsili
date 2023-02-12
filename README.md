@@ -26,7 +26,7 @@ Check out my portfolio 👉  <pre>Web: https://dylan-marsili.github.io/portafoli
 ---
 ## 👉🏻 Get in touch
 
-* Portfolio: https://dylan-marsili.github.io/portafolio-es/
+* Portfolio: https://dylan-marsili.github.io/portafolio-en/
 * LinkedIn: https://www.linkedin.com/in/dylan-marsili-94a693265/
 
 <!--
