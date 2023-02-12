@@ -10,7 +10,7 @@ I started learning web development on my own in 2022 and I love it! I consider m
 
 The feeling of knowing that it can be done better, of other people's incredible projects that they create, is what constantly motivates me to keep improving to reach and exceed them.
 
-Check out my portfolio 👉  <pre>Web: https://dylan-marsili.github.io/portafolio-es/ <br>Repo: https://github.com/Dylan-Marsili/portafolio-es </pre>
+Check out my portfolio 👉  <pre>Web: https://dylan-marsili.github.io/portafolio-en/ <br>Repo: https://github.com/Dylan-Marsili/portafolio-en </pre>
 
 ---
 
