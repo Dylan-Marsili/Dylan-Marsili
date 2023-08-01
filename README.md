@@ -25,7 +25,7 @@ The feeling of knowing that it can be done better, of other people's incredible 
 ---
 ## 👉🏻 Get in touch
 
-* Portfolio: dylanmarsili.is-a.dev
+* Portfolio: https://dylanmarsili.is-a.dev
 * LinkedIn: https://www.linkedin.com/in/dylan-marsili-94a693265/
 
 <!--
