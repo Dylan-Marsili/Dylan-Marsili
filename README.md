@@ -4,7 +4,7 @@
 "Do it with passion, or don't do it."
 ```
 
-Hi, I'm Dylan! Self-taught web development and python student, based in Argentina. I am currently studying high school. I am in the third year of high school with 100% of the subjects approved.
+Hi, I'm Dylan! Self-taught web development and python student, based in Argentina.
 
 I started learning web development on my own in 2022 and I love it! I consider myself a very responsible person with my work, I constantly study and improve my skills to complement all my projects and I enjoy doing it!
 
