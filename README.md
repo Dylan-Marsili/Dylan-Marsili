@@ -14,12 +14,13 @@ The feeling of knowing that it can be done better, of other people's incredible 
 ---
 
 ## 🧰 Languages and tools that interested me throughout my learning.
-* HTML
-* CSS
-* JavaScript / React
+* HTML / CSS
+* JavaScript / JQuery
+* NextJS / ReactJS
 * NodeJS / Express
 * SQL / MongoDB
 * Python / Django
+* ElectronJS / Tkinter (Python) 
 
 ---
 ## 👉🏻 Get in touch
